@@ -1,0 +1,80 @@
+body {
+    font-family: "NTR";
+    color: #333;
+}
+
+.theme-navbar {
+    margin-bottom: 0;
+    background: #1080f2;
+    color: #fff;
+    border-radius: 0;
+}
+
+.theme-navbar a {
+    color: #fff;
+}
+
+.theme-jumbotron {
+    background: #1080f2;
+    color: #fff;
+}
+
+.theme-jumbotron .theme-btn-primary {
+    background: #fff;
+    border: 2px solid #fff;
+    color: #1080f2;
+    display: inline-block;
+    font-weight: bold;
+    margin: 0 15px;
+    min-width: 160px;
+    text-transform: uppercase;
+    transition: 0.3s;
+}
+
+.theme-jumbotron .theme-btn-primary:hover {
+    background: #1080f2;
+    color: #fff;
+}
+
+.theme-jumbotron .theme-btn-info {
+    background: #1080f2;
+    border: 2px solid #fff;
+    color: #fff;
+    display: inline-block;
+    font-weight: bold;
+    text-transform: uppercase;
+    margin: 0 15px;
+    min-width: 160px;
+    transition: 0.3s;
+}
+
+.theme-jumbotron .theme-btn-info:hover {
+    background: #fff;
+    color: #1080f2;
+}
+
+.theme-heading {
+    font-size: 48px;
+    margin: 50px 0;
+}
+
+.theme-goal {
+    color: #666;
+    font-size: 24px;
+}
+
+.theme-feature h3 {
+    font-size: 24px;
+}
+
+.theme-feature p {
+    color: #666;
+    font-size: 18px;
+}
+
+.theme-footer {
+    background: #333;
+    color: #999;
+    padding: 20px;
+    margin: 70px auto 0 auto;
+}
